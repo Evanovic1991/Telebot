@@ -3,8 +3,8 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
 
 # إعداد مفاتيح API
-TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-COINMARKETCAP_API_KEY = "YOUR_COINMARKETCAP_API_KEY"
+TELEGRAM_BOT_TOKEN = "7560298937:AAEP1ryLlqi5cLJSW5kmFuztsieBsvQOCP4"
+COINMARKETCAP_API_KEY = "6b69c518-a3b4-42cd-8cf1-2d85b0833121"
 COINMARKETCAP_URL = "https://pro-api.coinmarketcap.com/v1/cryptocurrency"
 
 # وظيفة جلب سعر العملة
